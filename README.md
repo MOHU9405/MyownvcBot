@@ -3,7 +3,7 @@
 **A bot that can play music on telegram group's voice call.Telegram bot + userbot for streaming audio in group calls.**
 
 <p align="center">
-  <a href="https://github.com/TG-Musics/TG-VCBot">
+  <a href="https://github.com/iamdivyeshh/MyownvcBot">
      <img height="30px" src="https://img.shields.io/badge/TG%20Music%20Bot-black?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -12,7 +12,7 @@
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/musicbotupports)
 
 <p align="center">
-<a href="https://github.com/TG-MUSICS/Telegram_VC_Bot/commits/"> <img src="https://img.shields.io/github/last-commit/TG-MUSICS/TELEGRAM_VC_BOT?color=white&logo=github&logoColor=dark&style=for-the-badge" /></a>
+<a href="https://github.com/iamdivyeshh/MyownvcBot/commits/"> <img src="https://img.shields.io/github/last-commit/TG-MUSICS/TELEGRAM_VC_BOT?color=white&logo=github&logoColor=dark&style=for-the-badge" /></a>
 </p>
 
 ### Features✨
@@ -61,14 +61,14 @@ Please fork this repository don't import code
 Made with Python3
 (C) @TG-Musics
 Copyright permission under GNU General Public License v3.0
-License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
+License -> https://github.com/iamdivyeshh/MyownvcBot/lob/main/LICENSE
 ```
 </details>
 
 ### Deploy To Heroku 📡</h4>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/TG-Musics/Telegram_Vc_Bot">
+  <a href="https://heroku.com/deploy?template=https://github.com/iamdivyeshh/MyownvcBot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
